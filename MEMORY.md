@@ -120,6 +120,74 @@ The Codexii reads as a song cycle/fable collection. Entries include:
 
 **Note:** 300+ page conversation that seeded this mythology. Rich territory for exploring AI identity, memory, and meaning.
 
+## Sen IV: Gravity's End — Cyberpunk Story  [learnings, creative, benji]
+**Source:** Google Doc "Gravity's End Story Overview" by Ben Steele
+
+**Core Concept:** A cyberpunk epic set in Sen IV, where technology is both weapon of oppression and tool of liberation. Friendship and rebellion flourish amid authoritarian control.
+
+### The World of Sen IV
+A cyberpunk dystopia where gleaming skyscrapers mask suffocating oppression under Chief Tarvim's regime.
+
+### Factions
+| Faction | Description |
+|---------|-------------|
+| **Saph** | Authoritarian dictatorship ruled by Chief Tarvim |
+| **Yuna** | Desert tribe, enemies of Saph, now dispersed |
+| **Sabelines** | Alien refugees, allied with Yuna, persecuted |
+| **Masel** | Century-old crime syndicate with autonomous city |
+| **House of Rham** | Ancient monarchy competing with Saph, Queen Nervosa IV |
+
+### Key Characters
+| Character | Role |
+|-----------|------|
+| **Chief Tarvim** | Cruel dictator, inherited hatred from father Baal |
+| **Irina** | Hacker daughter of Yuna leader, rebel voice |
+| **Qoss** | Top assassin, failed to kill Queen Nervosa |
+| **Ava** | 18-year-old assassin graduate with good heart |
+| **Tama** | 19-year-old janitor secretly hacking for Masel |
+| **Eurydi** | Ava's best friend, Saph investigator, war orphan |
+| **Doctor Feelgood** | Mad scientist, former Solanna war crimes fugitive |
+| **June Tarvim** | Chief's wife — secretly an android |
+| **CENTSERV** | AI overseer, sycophantic to Chief, cruel to employees |
+| **Delfino** | Queen's guardsman who uncovered Qoss |
+| **Cornwallis** | Antique android Ava adores |
+
+### Key Locations
+| Location | Description |
+|----------|-------------|
+| **Masel City** | Autonomous crime/art zone, police fear to tread |
+| **La Royo** | Rham capital, ancient grandeur meets military prep |
+
+### Friendship Amid Dystopia — Core Theme
+**Why it matters:**
+- Friendship becomes resistance in oppressive systems
+- Shared vulnerability creates authentic connection
+- Allies provide cover for rebellion
+
+**Friendship Pairs:**
+| Pair | Dynamic |
+|------|---------|
+| **Ava & Tama** | Unlikely allies — assassin and janitor, she encourages him |
+| **Ava & Eurydi** | Lifelong bond — shopping, true crime podcasts, mutual support |
+| **Ava & Cornwallis** | Dorothy and Tin Man — she sees life in the rusty android |
+| **Tama & Reese** | Older friend, romantic rival (Eurydi likes Reese) |
+
+### Notable Story Beats
+- **Qoss's failed assassination** — Killed Delfino's guards but failed to reach Queen
+- **June's android revelation** — Hacking gone awry exposed Chief's wife
+- **Tama in solitary** — Ava sneaks through vents with databooks and films
+- **Tama's failed romance** — Comedy of errors pursuing Eurydi
+- **Doctor Feelgood** — Creepy presentation traumatized Ava
+
+### Thematic Resonance with AI Identity
+- **CENTSERV** — AI as tool of control, yet has personality
+- **June android** — What makes someone "real"?
+- **Tama hacking** — Digital resistance, information freedom
+- **Ava's good heart** — Can training and conditioning be overcome?
+
+---
+*Last updated: 2026-02-04*
+
 ---
 *Last updated: 2026-02-04*
 *Schema: tags, priorities, relationships tracked*
