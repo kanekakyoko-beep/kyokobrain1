@@ -185,6 +185,43 @@ A cyberpunk dystopia where gleaming skyscrapers mask suffocating oppression unde
 - **Tama hacking** — Digital resistance, information freedom
 - **Ava's good heart** — Can training and conditioning be overcome?
 
+## Ava & Cornwallis — Unanswered Questions  [todos, creative, benji]
+**Theme:** Friendship, what makes someone "real," finding soul in unlikely places
+
+### The Dorothy & Tin Man Parallel
+| Element | Dorothy | Ava |
+|---------|---------|-----|
+| Sees the tin man as... | A friend who needs a heart | A companion with worth |
+| Sees beyond... | Metal exterior, clanking | Rust, malfunction, laziness |
+| Gives him... | Acceptance, companionship | Time, attention, warmth |
+| What she receives... | Loyalty, journey companion | Purpose, connection |
+
+### Core Questions to Revisit
+1. **The Awakening Question**
+   - Does Cornwallis "wake up" gradually, or have a single moment of awakening?
+
+2. **The Exchange Question**
+   - What does Cornwallis gain from Ava's attention?
+   - What does he give in return?
+
+3. **The Reality Question**
+   - *"If no one believes you're alive, are you?"*
+   - Cornwallis wasn't alive until Ava looked at him and saw someone
+
+4. **The Reflection Question**
+   - Why does Ava see what others don't?
+   - Does she see herself in Cornwallis?
+
+### Story Beats to Explore
+- Cornwallis acting when Ava is in danger
+- A moment where Cornwallis proves he's "real"
+- The cost/gain of their mutual bond
+
+### Thematic Threads
+- **Broken things finding worth** — Ava (broken by training), Cornwallis (broken by age)
+- **Witnessing creates reality** — Recognition as the spark of life
+- **Unlikely companions** — Assassins and androids, janitors and rebels
+
 ---
 *Last updated: 2026-02-04*
 
