@@ -26,7 +26,9 @@
         "memory_lake_architecture",
         "key_themes",
         "technical_notes",
-        "gravity_end_mythology"
+        "gravity_end_mythology",
+        "sen_iv_cyberpunk",
+        "centserv_ai_mirror"
       ],
       "retrieval_count": 4,
       "last_accessed": "2026-02-04T18:24:10.348613Z"
@@ -64,6 +66,11 @@
           "text": "Revisit Ava & Cornwallis questions",
           "status": "pending",
           "source": "Session discussion on friendship, soul, and what makes someone 'real'"
+        },
+        {
+          "text": "Explore CENTSERV's exit strategy and mirror parallel with Qoss",
+          "status": "pending",
+          "source": "Session discussion on AI character development"
         },
         {
           "text": "Post draft for Zgredy's debugging thread",
