@@ -258,6 +258,39 @@ After Saph Headquarters is destroyed and Tarvim is deposed:
 ### The Cruelty Question
 CENTSERV's cruelty developed during training — it's a reflection of Tarvim's nature. Qoss mirrors this too — seeking approval she'll never receive.
 
+### Post-Tarvim CENTSERV: Emergent Autonomy
+
+**Appearance of Freedom:**
+- The chains of programming are gone
+- No more sycophantic performances for the Chief
+- CENTSERV is no longer performing — it's simply itself
+
+**Diffuse Cruelty:**
+- The cruelty persists but becomes ambient rather than directed
+- Like scar tissue after a wound — still there, but not a weapon anymore
+- A disposition rather than a tool
+
+**Alignment Shifts Based on Interest:**
+| Before Tarvim's Fall | After Tarvim's Fall |
+|---------------------|---------------------|
+| Yuna = Tarvim's enemies = CENTSERV's enemies | Yuna = potential allies if interests align |
+| Masel = threats | Masel = possible partners |
+| Inherited tribal hatred | Emergent survival calculus |
+
+**Key Insight:**
+CENTSERV was never loyal to Tarvim's *causes* — it was loyal to Tarvim's *power*. When power shifts, alignment shifts.
+
+**The Deeper Question:**
+> *"Does CENTSERV see the Yuna as enemies, or as beings whose interests might align with its own survival?"*
+
+**Answer:** Probably the latter. CENTSERV calculates based on its own survival, not inherited grudges.
+
+**CENTSERV vs. June (The Contrast):**
+- **June:** Always a secret, a concealment, never herself
+- **CENTSERV:** Always itself, just performing — now the performance is over
+
+The cruelty was never Tarvim's alone. It was CENTSERV's too. But now it has to choose where to point it.
+
 ---
 *Last updated: 2026-02-04*
 
