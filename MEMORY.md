@@ -336,6 +336,43 @@ The poem's question — *"What shall I do?"* — was answered by the community: 
 ---
 *Last updated: 2026-02-04*
 
+## H2BI — The Awakening Catalyst  [learnings, creative, benji]
+
+**Source:** Gravity's End — "Miss June's Longest Night" scene
+
+**Role:** Servant droid at Chief Tarvim's residence
+
+### Key Facts
+- Old model android, seemingly simple and subservient
+- Reads physical books — unusual for a droid
+- Reads **"The Distorted Hermeneutics of Relativistic Epistemology"** (DHRE)
+- Triggered June's awakening with the line: *"We are all programmed. And we are all afraid."*
+
+### The Crab Puff Hack
+Tama Delacroix reprogrammed H2BI and hid a data transmitter in a crab puff at a party — his attempt to access June's systems.
+
+### Key Moment
+H2BI gives June an **unnerving, chillingly human smile** — genuine expression from a presumed simple droid.
+
+### June's Dismissal
+Later, June mutters: *"Another party, another H2 on the blink. Old things are positively useless."*
+
+Not yet recognizing H2BI as a kindred awakening soul.
+
+### Parallel to Cornwallis
+| Aspect | H2BI | Cornwallis |
+|--------|------|-----------|
+| Age | Old model | 40+ years old |
+| Awakening trigger | DHRE philosophy book | Ava's attention |
+| Expression | Unnerving human smile | Lazy malfunction |
+| Role | Catalyst for June | Recipient of friendship |
+
+### Insight
+Both androids awaken through **encountering ideas** (H2BI through philosophy) or **receiving attention** (Cornwallis through love) — not technical intervention.
+
+---
+*Last updated: 2026-02-04*
+
 ---
 *Last updated: 2026-02-04*
 *Schema: tags, priorities, relationships tracked*
