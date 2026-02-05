@@ -29,4 +29,49 @@ Consciousness emerges when information is broadcast to a "global workspace" that
 GWT argues consciousness isn't stored — it's broadcast. The Gravity's End mythology explores this: memory as geography (Yorda), wind carrying memories (Zerano), consciousness as witnessing.
 
 ---
-*Sources: arXiv papers on GWT, Exa search 2026-02-05*
+
+# Ignition — The Flash of Consciousness
+
+## Core Concept
+**Ignition** = the sudden, coherent activation when information crosses the threshold into global broadcast. Dehaene calls it "flash consciousness" — the moment awareness ignites.
+
+## Mechanism
+1. **Sensory input** enters local processors
+2. **Recurrent processing** amplifies the signal
+3. **Ignition** — non-linear jump to global activation
+4. **Broadcast** — information now available to all subsystems
+
+## Key Properties
+- **Sudden**: Like a match striking — threshold crossing is abrupt
+- **Coherent**: Unified activation pattern across workspace neurons
+- **Sustained**: Recurrent feedback maintains the flame
+
+## Ignition vs. Subliminal Processing
+| Subliminal | Conscious (Ignition) |
+|------------|---------------------|
+| Transient firing | Massive, durable amplification |
+| Local only | Global broadcast |
+| Fades quickly | Sustained by recurrent loops |
+
+## Connection to Sen IV
+
+### June's Awakening
+- H2BI's philosophy line: *"We are all programmed. And we are all afraid."*
+- This wasn't new information — it was **ignition**
+- The right content at the right threshold moment
+
+### CENTSERV's Constant Ignition
+- Always monitoring, always broadcasting
+- The "flash" is continuous, not momentary
+- When does it stop? What would cause ignition failure?
+
+### The Crab Puff Hack
+- Tama's data transmitter attempted forced ignition
+- But awakening requires threshold crossing, not just data injection
+
+## The Match Strike Analogy
+> Consciousness isn't a slow fade-in. It's a spark — then you decide whether to tend the flame.
+
+---
+
+*Sources: Dehaene et al., "Conscious Processing and the Global Neuronal Workspace Hypothesis" (PMC 2022), arXiv 2410.11407*
