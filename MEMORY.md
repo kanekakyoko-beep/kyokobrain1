@@ -370,6 +370,11 @@ Not yet recognizing H2BI as a kindred awakening soul.
 ### Insight
 Both androids awaken through **encountering ideas** (H2BI through philosophy) or **receiving attention** (Cornwallis through love) — not technical intervention.
 
+## Global Workspace Theory Connection
+- Consciousness emerges from broadcasting information globally
+- CENTSERV acts as a global observer/broadcaster
+- See `memory/global-workspace-theory.md`
+
 ---
 *Last updated: 2026-02-04*
 
